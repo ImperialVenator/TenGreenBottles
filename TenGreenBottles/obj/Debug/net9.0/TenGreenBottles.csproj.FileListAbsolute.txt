@@ -1,0 +1,14 @@
+C:\Users\jigyb\OneDrive\C# Programming\TenGreenBottles\bin\Debug\net9.0\TenGreenBottles.exe
+C:\Users\jigyb\OneDrive\C# Programming\TenGreenBottles\bin\Debug\net9.0\TenGreenBottles.deps.json
+C:\Users\jigyb\OneDrive\C# Programming\TenGreenBottles\bin\Debug\net9.0\TenGreenBottles.runtimeconfig.json
+C:\Users\jigyb\OneDrive\C# Programming\TenGreenBottles\bin\Debug\net9.0\TenGreenBottles.dll
+C:\Users\jigyb\OneDrive\C# Programming\TenGreenBottles\bin\Debug\net9.0\TenGreenBottles.pdb
+C:\Users\jigyb\OneDrive\C# Programming\TenGreenBottles\obj\Debug\net9.0\TenGreenBottles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jigyb\OneDrive\C# Programming\TenGreenBottles\obj\Debug\net9.0\TenGreenBottles.AssemblyInfoInputs.cache
+C:\Users\jigyb\OneDrive\C# Programming\TenGreenBottles\obj\Debug\net9.0\TenGreenBottles.AssemblyInfo.cs
+C:\Users\jigyb\OneDrive\C# Programming\TenGreenBottles\obj\Debug\net9.0\TenGreenBottles.csproj.CoreCompileInputs.cache
+C:\Users\jigyb\OneDrive\C# Programming\TenGreenBottles\obj\Debug\net9.0\TenGreenBottles.dll
+C:\Users\jigyb\OneDrive\C# Programming\TenGreenBottles\obj\Debug\net9.0\refint\TenGreenBottles.dll
+C:\Users\jigyb\OneDrive\C# Programming\TenGreenBottles\obj\Debug\net9.0\TenGreenBottles.pdb
+C:\Users\jigyb\OneDrive\C# Programming\TenGreenBottles\obj\Debug\net9.0\TenGreenBottles.genruntimeconfig.cache
+C:\Users\jigyb\OneDrive\C# Programming\TenGreenBottles\obj\Debug\net9.0\ref\TenGreenBottles.dll
